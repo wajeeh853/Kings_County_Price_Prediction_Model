@@ -9,8 +9,8 @@ A real estate agency in Seattle WA wants to predict the housing prices in order 
 
 
 ### Exploratory Data Analysis (EDA)
+/Users/hasan/Desktop/house-price-pridiction-with-statistical-test/Images/heatmap.jpeg
 
-![graph](Images/mix.png)
 ### Heatmap
 
 ![graph](Images/ks.png)
